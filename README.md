@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hey, I'm Ushnika!
 
 Welcome to my GitHub — where I break things, fix things,  

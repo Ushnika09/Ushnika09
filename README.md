@@ -71,7 +71,7 @@ Currently collecting:
 
 ### 💻 Frontend
 
-React.js • Next.js • Tailwind CSS • HTML • CSS • JavaScript
+React.js • Tailwind CSS • HTML • CSS • JavaScript
 
 ### ⚙ Backend
 

@@ -1,59 +1,139 @@
 # 👋 Hey, I'm Ushnika!
 
-Welcome to my GitHub — where I break things, fix things,  
-and learn things **one step at a time** (like a MERN monk in training).
+### MERN Stack Developer crafting apps, fixing bugs, and occasionally creating new bugs while fixing old ones 😄
+
+Backend bugs fear me.
+Frontend bugs know me personally.
 
 ---
 
-## 🔭 I’m currently working on
-Fixing bugs, polishing features, and building real-world MERN apps as a  
-**MERN Intern at Quantinent AI**.  
-Slowly leveling up from “what is this error?” → “ohh THAT’S why.”
+## 🚀 About Me
+
+I’m a MERN stack developer who enjoys building real-world applications, solving problems, contributing to Open Source, and occasionally questioning my entire codebase after one missing semicolon.
+
+Started coding with:
+
+> “Why is this not working?”
+
+Now slowly evolving into:
+
+> “Okay... I know *where* it’s not working.” 😌
 
 ---
 
-## 🌱 I’m currently learning
-- Next.js + TypeScript  
-- Clean backend architecture  
-- Writing code that Future-Me won’t hate  
-- Debugging without crying (still in beta)
+## 💼 Experience
+
+### 🚀 Former MERN Intern at Quantinent AI
+
+Spent around **5 months** working on MERN stack applications, fixing bugs, improving features, debugging APIs, and discovering that:
+
+> fixing one bug usually unlocks three new side quests.
+
+Worked with:
+
+* React.js
+* Node.js
+* Express.js
+* MongoDB
+* REST APIs
+* Frontend/backend integration
+* UI fixes & feature enhancements
+
+That internship transformed my:
+
+> “WHY IS THIS ERROR HAPPENING?!”
+
+into:
+
+> “Okay... let me check the logs first.”
+
+Character development 📈
 
 ---
 
-## 👯 I’m looking to collaborate on
-Fun MERN stack projects, clean UI builds,  
-API-driven applications, or anything that challenges my brain—in a good way.
+## 🌍 Open Source Journey
+
+✨ Started contributing to Open Source in 2026
+🎉 Contributor in **GirlScript Summer of Code 2026 (GSSOC'26)**
+🏅 Earned my first GitHub achievement badge
+🚀 Raised and got my first PRs merged — proof that the scary “Contribute” button is actually clickable.
+
+Currently collecting:
+
+* Merged PRs
+* Review comments
+* Contribution streaks
+* Tiny dopamine boosts from green GitHub squares
 
 ---
 
-## 🤔 I’m looking for help with
-- Scalable backend patterns  
-- Understanding deep Node.js internals  
-- Becoming the kind of developer who doesn’t panic when prod breaks 😄
+## 🛠 Tech Stack
+
+### 💻 Frontend
+
+React.js • Next.js • Tailwind CSS • HTML • CSS • JavaScript
+
+### ⚙ Backend
+
+Node.js • Express.js
+
+### 🗄 Database
+
+MongoDB • Mongoose
+
+### 🔧 Tools
+
+Git • GitHub • Postman • VS Code • REST APIs
 
 ---
 
-## 💬 Ask me about
-React • Node.js • MongoDB • Tailwind  
-Internship survival strategies  
-Why **console.log()** is my emotional support system
+## 🌱 Currently Learning
+
+* Next.js + TypeScript
+* Clean backend architecture
+* Advanced Node.js concepts
+* Scalable application patterns
+* Debugging without emotional damage (still experimental)
 
 ---
 
-## 📫 How to reach me
-📩 **Email:** karushnika@gmail.com  
-Let’s connect, collaborate, or talk about cool ideas!
+## 👯 Open to Collaborate On
+
+* MERN stack projects
+* Open Source contributions
+* API-driven applications
+* Clean frontend/UI builds
+* Anything that teaches me something new
 
 ---
 
-## ⚡ Fun fact
-My code works perfectly…  
-until someone says, *“Okay, show me.”*
+## 💬 Ask Me About
+
+React • Node.js • MongoDB • Tailwind • GitHub
+Internship survival strategies
+Why `console.log()` deserves employee benefits
+
+---
+
+## 📫 Connect With Me
+
+📩 **Email:** [karushnika@gmail.com](mailto:karushnika@gmail.com)
+
+Let’s build something cool 🚀
+
+---
+
+## ⚡ Fun Fact
+
+My code works perfectly…
+
+until someone stands behind me and says:
+
+> “Bro, run it once.”
 
 ---
 
 <p align="center">
-Crafted with 💛 by Ushnika —  
-building, breaking, learning, repeating.
+Crafted with 💛 by Ushnika <br>
+Building • Breaking • Learning • Repeating
 </p>
-
